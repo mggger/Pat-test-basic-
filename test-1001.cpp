@@ -33,5 +33,6 @@ if(a%2!=0)
  target++;
 }
 cout<<target<<endl;
+return 0;
 }
 
